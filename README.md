@@ -4,7 +4,7 @@
 
 ### `npm start`
 
-###json example
+### json example
 ```json
 [
   {
