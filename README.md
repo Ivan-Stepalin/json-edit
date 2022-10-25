@@ -5,6 +5,7 @@
 ### `npm start`
 
 ###json example
+```json
 [
   {
     "name": "folder1",
@@ -33,3 +34,5 @@
     ]
   }
 ]
+
+```
