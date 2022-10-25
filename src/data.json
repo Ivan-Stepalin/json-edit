@@ -1,0 +1,28 @@
+[
+	{
+		"name": "folder1",
+		"value1": "value1",
+		"value2": "value2",
+		"innerFolder": [
+			{"name": "folder11", "value1": "value1", "value2": "value2"},
+			{"name": "folder12", "value1": "value1", "value2": "value2"}
+		]
+	},
+	{
+		"name": "folder2",
+		"value1": true,
+		"value2": "value2",
+		"innerFolder": [
+			{
+				"name": "folder21",
+				"value1": "value1",
+				"value2": "value2",
+				"innerFolder": [
+					{"name": "folder221", "value1": false, "value2": "value2"},
+					{"name": "folder222", "value1": "value1", "value2": "value2"}
+				]
+			},
+			{"name": "folder22", "value1": "value1", "value2": "value2"}
+		]
+	}
+]
